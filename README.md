@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Korede
-- 👀 I’m interested in Backend Development 
-- 🌱 I’m currently learning Javascript, NodeJs, Express, PHP, Vue, Typescript, SQL, NoSQl
+- 👀 I’m interested in Cloud Engineering 
+- 🌱 I’m currently learning
 - 💞️ I’m looking to collaborate on Open-source projects
 - 📫 How to reach me ...
 
